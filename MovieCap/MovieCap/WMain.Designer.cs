@@ -172,7 +172,7 @@
             this.Controls.Add(this.axWindowsMediaPlayer1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "WMain";
-            this.Text = "MovieCap";
+            this.Text = "MovieCap（映像キャプチャ）";
             this.Load += new System.EventHandler(this.WMain_Load);
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();
             this.panel1.ResumeLayout(false);

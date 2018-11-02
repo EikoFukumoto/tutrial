@@ -17,3 +17,24 @@ C:\Users\U546216\Documents\Visual Studio 2015\Projects\MovieCap\MovieCap\bin\Deb
 C:\Users\U546216\Documents\Visual Studio 2015\Projects\MovieCap\MovieCap\obj\Debug\MovieCap.TrustInfo.xml
 C:\Users\U546216\Documents\Visual Studio 2015\Projects\MovieCap\MovieCap\obj\Debug\MovieCap.exe.manifest
 C:\Users\U546216\Documents\Visual Studio 2015\Projects\MovieCap\MovieCap\obj\Debug\MovieCap.application
+E:\GitRepository\tutrial\MovieCap\MovieCap\bin\Debug\MovieCap.exe.config
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\Interop.WMPLib.dll
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\AxInterop.WMPLib.dll
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.csproj.ResolveComReference.cache
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.exe
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.pdb
+E:\GitRepository\tutrial\MovieCap\MovieCap\bin\Debug\MovieCap.exe.manifest
+E:\GitRepository\tutrial\MovieCap\MovieCap\bin\Debug\MovieCap.application
+E:\GitRepository\tutrial\MovieCap\MovieCap\bin\Debug\MovieCap.exe
+E:\GitRepository\tutrial\MovieCap\MovieCap\bin\Debug\MovieCap.pdb
+E:\GitRepository\tutrial\MovieCap\MovieCap\bin\Debug\Interop.WMPLib.dll
+E:\GitRepository\tutrial\MovieCap\MovieCap\bin\Debug\AxInterop.WMPLib.dll
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.csprojAssemblyReference.cache
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.Properties.Resources.resources
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.WConfig.resources
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.WMain.resources
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.csproj.GenerateResource.cache
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.csproj.CoreCompileInputs.cache
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.TrustInfo.xml
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.exe.manifest
+E:\GitRepository\tutrial\MovieCap\MovieCap\obj\Debug\MovieCap.application
